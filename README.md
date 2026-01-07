@@ -37,5 +37,4 @@ I build digital experiences that are clean, modern, and scalable.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+
