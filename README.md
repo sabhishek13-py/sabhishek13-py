@@ -42,20 +42,9 @@ Tools & Practices
 
 Git/GitHub, Linux
 
-REST APIs, OpenAPI
+REST APIs, OpenAPI, N8N
 
 Testing, CI workflows
-
-
-Currently contributing to Zulip’s codebase in areas like:
-
-backend logic & API behavior
-
-OpenAPI documentation and coverage
-
-permissions and settings improvements
-
-UI fixes and testing
 
 
 🚀 Featured Projects
