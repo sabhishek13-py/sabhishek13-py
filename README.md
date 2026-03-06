@@ -1,70 +1,18 @@
-👋 Hey, I'm Yogabhishek
-
-Open Source Contributor | Web Developer | Backend + Frontend Engineer
-
-I build clean, scalable web systems and love working on real-world codebases where correctness and maintainability matter.
-
-🧠 About Me
-
-📍 Based in India
-💻 Interested in web development, backend systems, and open source engineering
-
-I enjoy solving problems involving:
-
-permissions & access control
-
-API design + testing
-
-UI/UX improvements in large-scale web apps
-
-performance-focused features like search and filtering
-
-🛠 Tech Stack
-Languages
-
-JavaScript, TypeScript, Python
-
-Frontend
-
-React, Next.js, HTML, CSS, Tailwind
-
-Backend
-
-Node.js, Express
-
-Django (learning + contributing)
-
-Databases
-
-MongoDB, MySQL
-
-Tools & Practices
-
-Git/GitHub, Linux
-
-REST APIs, OpenAPI, N8N
-
-Testing, CI workflows
+# 💫 About Me:
+🔭 Currently working on:<br>Open source contributions and improving backend development skills by working with APIs and large real-world codebases.<br><br>🌱 Currently learning:<br>Backend architecture, API design, debugging complex systems, and understanding production-level codebases.<br><br>👯 Looking to collaborate on:<br>Open source projects, backend systems, and full-stack web applications.<br><br>🤝 Looking for help with:<br>Understanding large codebases, improving API design skills, and learning better debugging practices.<br><br>⚡ Fun fact:<br>I enjoy learning by building real projects and contributing to open source rather than just following tutorials.
 
 
-🚀 Featured Projects
-⭐ Void-LabX
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogabhishek-sukuluri-153304374) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syogabhishek@gmail.com) 
 
-A modern web project focused on clean UI and fast deployment.
-🛠 Tech: Next.js, Tailwind
-🔗 Live: https://void-lab-x.vercel.app/
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sabhishek13-py&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sabhishek13-py&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhishek13-py&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-⭐ Portfolio Website
+---
+[![](https://visitcount.itsvg.in/api?id=sabhishek13-py&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Personal portfolio showcasing my projects and development journey.
-🛠 Tech: React / Next.js
-🔗 Live: https://sukuluriyogabhishek.vercel.app
-
-
-📫 Contact Me
-
-📧 Email: syogabhishek@gmail.com
-
-🔗 LinkedIn: https://linkedin.com/in/yogabhishek-sukuluri-153304374/
-
-🔗 Portfolio: https://sukuluriyogabhishek.vercel.app
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
