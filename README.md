@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on:<br>Open source contributions and improving backend development skills by working with APIs and large real-world codebases.<br><br>🌱 Currently learning:<br>Backend architecture, API design, debugging complex systems, and understanding production-level codebases.<br><br>👯 Looking to collaborate on:<br>Open source projects, backend systems, and full-stack web applications.<br><br>🤝 Looking for help with:<br>Understanding large codebases, improving API design skills, and learning better debugging practices.<br><br>⚡ Fun fact:<br>I enjoy learning by building real projects and contributing to open source rather than just following tutorials.
+🔭 Currently working on:<br>Open source contributions and improving backend development skills by working with APIs and large real-world codebases.<br><br>🌱 Currently learning:<br>Backend architecture, API design, debugging complex systems, and understanding production-level codebases.<br><br>👯 Looking to collaborate on:<br>Open source projects, backend systems, and full-stack web applications.<br><br>🤝 Looking for help with:<br>Understanding large codebases, improving API design skills, and learning better debugging practices.<br><br>
 
 
 ## 🌐 Socials:
